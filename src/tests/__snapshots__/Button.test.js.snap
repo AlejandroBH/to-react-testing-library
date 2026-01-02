@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://jestjs.io/docs/snapshot-testing
+
+exports[`Button coincide con snapshot 1`] = `
+<button
+  class="btn-primary btn-large"
+>
+  Guardar Cambios
+</button>
+`;
